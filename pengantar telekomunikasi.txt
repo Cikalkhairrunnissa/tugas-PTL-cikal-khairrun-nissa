@@ -1,0 +1,15 @@
+. throughput adalah kecepatan data rata-rata yang diterima oleh suatu node dalam selang waku pengamatan tertentu.
+   rumus throughput      =jumlah data yang dikirim (byte s) / waktu prngiriman (time span) x 8
+                         =352852 / 639.197 x 8
+                         =4.416190939569491
+.loss packet adalah banyaknya paket yang hilang pda suatu jaringan pakrt yang disebabkan oleh  tabrakan 
+   rumus loss packet     = jumlah paket yang dikirim - jumlah paket yang diterima/jumlah paket yang dikirim x 100%
+                         =652 - 652 / 652 x 100
+                         =0
+.delay adalah waktu tunda saat paket yang diakibatkan oleh proses transmisi dari suatu titik menuju titik yang
+menjadi tujuannya.
+rumus delay              =time 2 - time 1
+                         =
+.jiter adalah variasi waktu dari sinyal periodik dalam elektronik dan telekomunikasi.
+rumus jiter              = delay 1 - delay 2
+                          
